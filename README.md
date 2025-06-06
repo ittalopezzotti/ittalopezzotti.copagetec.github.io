@@ -88,7 +88,7 @@ The article's main objective is to show how the necessary parameters are calcula
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email gonescopezzo@gmail.com or join our Slack channel.
 
 
 ## Roadmap
