@@ -26,7 +26,7 @@ The article's main objective is to show how the necessary parameters are calcula
 
 ## Screenshots
 
-![App Screenshot](Img/Teorical_Model_Copagetec_Fondo.png)
+![App Screenshot](Img/Teorical_Model_Copagetec_Fondo.jpg)
 
 ![App Screenshot](Img/Image_Copagetec_Test_Station_Process.png)
 
