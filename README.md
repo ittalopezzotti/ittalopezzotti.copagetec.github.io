@@ -16,34 +16,7 @@ ABSTRACT
 The article's main objective is to show how the necessary parameters are calculated and obtained to build a non-pressurized closed chamber and generate thermal cycles for three temperature zones using a PID controller. The equations, the data table with the calculations, and the transfer functions of the proportional-integral-derivative (PID) control loop mechanism will be described. **The first zone covers the ambient temperature range up to 60°C with an actuator (Rb), another actuator for the range from 60 °C to 200 °C (Ra), and the third actuator (Rc) that covers the range from 0 to -13 °C. This system is based on low-cost technology, and the components can be organized in different configurations according to a specific need or process**. This system will allow students, researchers, and engineers to acquire accurate data and process it in different applications where temperature control is relevant, for example, bacterial growth, biological material preservation, dry air sterilization, and other laboratory processes.
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
+- [@ESCOBAR](https://github.com/ittalopezzotti)
 
 
 ## Demo
@@ -53,10 +26,11 @@ Takes two numbers and returns the sum.
 
 ## Screenshots
 
-![App Screenshot](Img/Teorical_Model_Copagetec_Fondo.jpg)
+![App Screenshot](Img/Teorical_Model_Copagetec_Fondo.png)
+
 ![App Screenshot](Img/Image_Copagetec_Test_Station_Process.png)
 
-![App Screenshot](Img/Table_2_Teorical_Model.png)
+![App Screenshot](Img/Table_1_Teorical_Model.png)
 
 
 ## Features
@@ -110,4 +84,19 @@ Takes two numbers and returns the sum.
 [The methodology applied](https://ittalopezzotti.github.io/ittalopezzotti.github.io.copagetec.methodology.github.io/)
 
 [Electrical circuits](https://ittalopezzotti.github.io/.copagetec.repository.elecir)
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+![Logo](Logo/Logo_Simbolo_Pezzotti.png)
 
